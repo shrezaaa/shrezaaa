@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!-- - 🔭 I’m currently working on  -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -11,3 +9,4 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
