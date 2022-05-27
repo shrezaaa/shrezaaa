@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 <!--
 **shrezaaa/shrezaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
