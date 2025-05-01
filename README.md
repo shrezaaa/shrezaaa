@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Reza Shakeri!
 
-🎯 Front-End Engineer | 🧠 Passionate about scalable architecture | 🇮🇷 Based in Iran
+🎯 Front-End Engineer | 🧠 Passionate about scalable architecture
 
-I'm a software engineer with strong experience in **Angular**, **NestJS**, and growing expertise in **React**. I love solving real-world problems with clean architecture and modern tools.
+I'm a software engineer with strong experience in **Angular**, **NestJS**, and growing expertise in **React** and **Vue**. I love solving real-world problems with clean architecture and modern tools.
 
 ---
 
@@ -25,35 +25,16 @@ I'm a software engineer with strong experience in **Angular**, **NestJS**, and g
 
 ---
 
-## 📌 Pinned Projects
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shrezaaa&repo=your-repo-name-1&theme=radical)](https://github.com/shrezaaa/your-repo-name-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shrezaaa&repo=your-repo-name-2&theme=radical)](https://github.com/shrezaaa/your-repo-name-2)
-
-<!-- Add 2-4 more pinned repos here -->
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [r.shakeri9210@gmail.com](mailto:r.shakeri9210@gmail.com)
-- 🐦 Twitter: [@sherzanian](https://twitter.com/sherzanian)
-- 💼 LinkedIn: [Your LinkedIn (if available)](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Reza Shakeri](https://www.linkedin.com/in/reza-shakeri-79a120213/)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧊 3D GitHub Contributions
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrezaaa&theme=gruvbox&margin-w=10&column=7" />
-</p>
+![3D Contributions](https://github.com/shrezaaa/shrezaaa/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrezaaa&theme=github-compact&hide_border=true" />
-</p>
 
 ---
