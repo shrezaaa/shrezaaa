@@ -34,7 +34,7 @@ I'm a software engineer with strong experience in **Angular**, **NestJS**, and g
 
 ## 🧊 3D GitHub Contributions
 
-![3D Contributions](https://github.com/shrezaaa/shrezaaa/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=shrezaaa&theme=rainbow&animation_duration=2&frame=short)
 
 
 ---
